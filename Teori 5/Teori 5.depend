@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1460541400 source:c:\users\asus\desktop\teori 5\fungsi.c
+	"header.h"
+
+1460541070 c:\users\asus\desktop\teori 5\header.h
+
+1460541402 source:g:\teori 5\fungsi.c
+	"header.h"
+
+1460541072 g:\teori 5\header.h
+
+1460541584 source:g:\teori 5\main.c
+	<stdio.h>
+	<stdlib.h>
+	"header.h"
+
