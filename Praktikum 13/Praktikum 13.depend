@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1465446343 source:c:\users\labdas\desktop\praktikum 13\main.c
+	<stdio.h>
+	<stdlib.h>
+	"string.h"
+
